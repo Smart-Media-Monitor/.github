@@ -4,7 +4,7 @@
 Smart Media Monitor is a cutting-edge solution designed to provide businesses with actionable insights through advanced media monitoring. Utilizing modern NLP techniques and a finely-tuned large language model, this platform helps in analyzing and interpreting social media data effectively.
 
 ## Technologies Used
-- **Backend:** Node.js
+- **Backend:** FASTAPI
 - **Frontend:** React.js
 - **NLP and Machine Learning:** Custom Large Language Models for data analysis
 - **Database:** PostgreSQL
